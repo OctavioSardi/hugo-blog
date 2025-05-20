@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>F1 on La Bóveda de Octa</title>
+    <link>http://localhost:1313/tags/f1/</link>
+    <description>Recent content in F1 on La Bóveda de Octa</description>
+    <image>
+      <title>La Bóveda de Octa</title>
+      <url>http://localhost:1313/run/media/octavio/Blog/assets/img/hugo-pic.png</url>
+      <link>http://localhost:1313/run/media/octavio/Blog/assets/img/hugo-pic.png</link>
+    </image>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/f1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jijo</title>
+      <link>http://localhost:1313/posts/jijo/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/jijo/</guid>
+      <description>&lt;h1 id=&#34;jijo&#34;&gt;Jijo&lt;/h1&gt;
+&lt;p&gt;Se me jijean los jijolines.&lt;/p&gt;
+&lt;p&gt;El buto de &lt;strong&gt;Colabinto&lt;/strong&gt; se la recontra puso jijoo.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bebe Mujija.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;J&lt;/li&gt;
+&lt;li&gt;I&lt;/li&gt;
+&lt;li&gt;J&lt;/li&gt;
+&lt;li&gt;O&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Attachments/jijo.png]]&lt;/p&gt;
+&lt;p&gt;Gracias por su atencion.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

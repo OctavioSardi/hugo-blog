@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://octaviosardi.pages.dev/sitemap.xml

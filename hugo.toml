@@ -1,4 +1,4 @@
-baseURL = 'https://octaviosardi.pages.dev/'
+baseURL = 'https://example.org/'
 languageCode = 'es'
 title = 'La Bóveda de Octa'
 theme = 'PaperMod'
